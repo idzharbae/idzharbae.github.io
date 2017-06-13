@@ -4,20 +4,16 @@ Mahasiswa Ilmu Komputer IPB
 _Asrama TPB IPB C3_
 _+62 815 2445 3017_
 _idzharbae@gmail.com_
-Pendidikan
-----------
-__Institut Pertanian Bogor -- _Skom_ __
+## Pendidikan
+### Institut Pertanian Bogor -- _Skom_
 Jul 2016 – Nov 2020: Sarjana Komputer dengan minor Statistika Terapan.
-__SMAN 44 JAKARTA__
+### SMAN 44 JAKARTA
 Jul 2013 – Jun 2016
-Pelatihan
----------
+## Pelatihan
 * Gemastik 2017
 * Competitive Programming Community IPB
-Keahlian
---------
+## Keahlian
 * Data Mining
 * Artificial Intelligence
-Hobi
-----
+## Hobi
 Dota, Catur.
